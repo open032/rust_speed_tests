@@ -1,0 +1,27 @@
+[profile.dev]
+opt-level = 3
+	
+test run in server arch, new and free
+
+test run 101 replay
+for i in {0..100}
+do
+  ./string_return
+done
+
+next sum 101 result division 101
+
+
+clear_std 
+
+6.79
+6.80
+6.80
+
+	
+	
+str_fun 
+
+6.84
+6.78
+6.83
